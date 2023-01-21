@@ -1,0 +1,7 @@
+name: Djays Photos
+type: theme
+description: Theme based on classy
+core_version_requirement: 9.x
+base theme: classy
+libraries:
+  - djays_photos/global-styling

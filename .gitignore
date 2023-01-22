@@ -71,6 +71,8 @@
 .ddev/
 .gitignore
 
+
+
 # Ignore other scaffold files
 #
 # Ignore all files placed directly at the project root. Rely on

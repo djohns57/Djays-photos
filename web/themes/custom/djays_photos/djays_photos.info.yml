@@ -5,3 +5,15 @@ core_version_requirement: 9.x
 base theme: classy
 libraries:
   - djays_photos/global-styling
+
+regions:
+  header: Header
+  navigation: Navigation
+  highlights: Highlights
+  main_content: Main Content
+  footer_1: Footer 1
+  footer_2: Footer 2
+  footer_3: Footer 3
+  footer_below: Footer Below
+  page_top: Page Top
+  page_bottom: Page Bottom

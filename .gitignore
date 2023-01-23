@@ -70,6 +70,7 @@
 /vendor/
 .ddev/
 .gitignore
+*.DS_Store
 
 
 

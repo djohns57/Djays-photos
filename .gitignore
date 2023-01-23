@@ -70,6 +70,9 @@
 /vendor/
 .ddev/
 .gitignore
+*.DS_Store
+
+
 
 # Ignore other scaffold files
 #
